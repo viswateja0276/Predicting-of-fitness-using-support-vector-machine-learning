@@ -1,1 +1,1 @@
-# Predicting-of-fitness-using-support-vector-machine-learning
+# Prediction-of-fitness-using-support-vector-machine-learning
